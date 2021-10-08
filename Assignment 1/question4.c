@@ -42,7 +42,7 @@ void selectionSort( int arr[],  int n)
 }
 
 int main()
-{ printf("%ld\n",CLOCKS_PER_SEC);
+{ 
  int n = 100;
 	int test = 4;
 

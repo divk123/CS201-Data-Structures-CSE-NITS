@@ -43,7 +43,7 @@ void selectionSort( int arr[],  int n)
 
 int main()
 { 
- int n = 100;
+ int n = 10000;
 	int test = 4;
 
 	int time1[10], time2[10];
